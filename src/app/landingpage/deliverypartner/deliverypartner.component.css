@@ -1,0 +1,43 @@
+.main {
+  margin-top: 88px;
+  position: relative;
+  padding-left:95px;
+  padding-right: 95px;
+}
+.card{
+    text-align: center;
+    margin-top: 10px;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+
+}
+.card:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 700;
+  text-align: center;
+}
+.rectangle{
+    position: absolute;
+    left: 19%;
+    top: 59%;
+}
+.pinkRectangle{
+    position: absolute;
+    right: 30%;
+    top: 35%;
+    right: 7%;
+}
+.OrderCardMother{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: 39px;
+}
+.order{
+    width: 214px;
+    height: 200px;
+}

@@ -1,0 +1,26 @@
+.circle {
+  position: absolute;
+  right: 25%;
+  bottom: 176%;
+}
+.main {
+  width: 100%;
+  position: relative;
+  margin-top: 121px;
+  padding-left: 95px;
+}
+h5 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.16em;
+  color: #0070d2;
+}
+h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 60px; 
+  color: #333333;
+}

@@ -1,0 +1,96 @@
+.main {
+  margin-top: -30px;
+  margin-right: 35px;
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  display: flex;
+}
+.circle {
+  background: rgba(254, 233, 222, 255);
+  border-radius: 50%;
+}
+.circle img {
+  width: 47px;
+  height: 47px;
+}
+.telephon {
+  height: 41px !important;
+  width: 41px !important;
+}
+.personicon {
+  width: 41px !important;
+  height: 41px !important;
+}
+.menu-cards-p {
+  font-family: Serif Georgian;
+  font-weight: 500;
+  size: 24px;
+  line-height: 32.64px;
+  margin-bottom: 0;
+  margin-left: 9.5px;
+  margin-right: 9.5px;
+}
+.menu {
+  display: flex;
+  align-items: center;
+  height: 71px;
+  padding: 9px 15px 9px 130px;
+  border-radius: 50px;
+  background-color: white;
+  margin-right: 14px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.menu img {
+  width: 24px;
+  height: 24px;
+}
+.telephon {
+  width: 41px;
+  height: 41px;
+}
+
+.menu2 {
+  width: 272px;
+  height: 131px;
+  border-radius: 20px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  padding: 17px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.menu2-fluid {
+  margin-left: 21px;
+}
+.menu2-fluid p {
+  margin: 0;
+}
+.menu2 img {
+  width: 113px;
+  height: 97px;
+}
+.stars img {
+  width: 10px;
+  height: 10px;
+}
+.stars {
+  width: 82px;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}
+h2 {
+  margin-bottom: 0;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  margin-top: 21px;
+}
+.currency {
+  color: red;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+}

@@ -1,0 +1,51 @@
+.main {
+  width: 100%;
+  height: 799px;
+  background-image: url("https://s3-alpha-sig.figma.com/img/917a/928b/160201111c1a1c859b762f3534f04475?Expires=1669593600&Signature=en0tBzEALpnq37DKfATtcprb0~r8cAophAWdBbVhwsQtME6RbKixzZG0dKMnEnO2V4L3r0ohJVAGKkepekJO~PqdPzIJYRgv-JxU1~z6il9U7JoHU0BQ0v5GCgghN4zyQKp~sdDrmzBORGvTmBMH0ghdSyjogwwwHThyH48LhGWVVae1VNfFsg1r6sgtGHKs84vnDcNtCVHELOjB9576auFaTxvLP4~sDvspqOEsM42G76BGSeTPZr7JA6e~Gc81seqSHXThuISQ1grgeDxPNTQmNGZQ~5GZc-RpiDwOF3RucIWo5QdlaWv6PxzUdhnLfB-fKkTrZz7fmahT~gzYQw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+}
+.btn-blue {
+  color: black;
+  height: 68px;
+  width: 186px;
+  border-radius: 50px;
+  padding: 11px 20px 11px 20px;
+  background-color: #0070d2;
+  border: none;
+}
+.btn-transparent {
+  color: black;
+  height: 68px;
+  width: 186px;
+  background-color: rgba(0, 0, 0, 0);
+  padding: 11px 20px 11px 20px;
+
+  border: none;
+} 
+.main-fluid{
+    margin: 0px 0px 23px 79px;
+}
+.description{
+    color:white;
+}
+.arrow{
+  position: absolute;
+  right: 0;
+  top: 35%;
+  margin-right: 10px;
+}
+.rect{
+  position: absolute;
+  right: 0;
+  top:81%;
+  margin-right: 3px;
+}
+.circle{
+  position: absolute;
+  right: 51%;
+  top:59%;
+}

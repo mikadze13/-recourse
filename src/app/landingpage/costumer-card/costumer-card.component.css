@@ -1,0 +1,58 @@
+.main{
+    display: flex;
+    align-items: center;
+    padding-top: 67px;
+    padding-left: 77px;
+}
+.main-fluid{
+    display: flex;
+    
+}
+.main-fluid2{
+    margin-left: 17px;
+     
+}
+.person1{ 
+    cursor: pointer;
+}
+.person2{
+    margin-left: -19px;
+    cursor: pointer;
+}
+.person3{
+    margin-left: -19px;
+    cursor: pointer;
+}
+ 
+.rate-div{
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+.star{
+    width: 18px;
+    height: 18px;
+}
+h5, h3{
+    margin: 0;
+}
+h5{
+    margin-left: 8px;
+    margin-right: 8px;
+    font-weight: 500;
+    font-size: 15px;
+}
+h3{
+    font-weight:600;
+    font-size: 17px;
+
+}
+span{
+    font-size:15px;
+    font-weight: 500;
+    color: #828282;
+}
+.rectangle{
+    position: absolute;
+    right: 25%;
+}
